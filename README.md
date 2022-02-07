@@ -1,4 +1,4 @@
-Importare la cartella da github per avviare il progetto
+Importare la cartella da github presente nel branch ###master### per avviare il progetto
 
 Il database con nome ###buildings### sarà la chiave per fare funzionare il tutto
 
